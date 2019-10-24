@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Stacks",
+            "request": "launch",
+            "mainClass": "Stacks",
+            "projectName": "Hands-on-Datastructures_165060fe"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SinglyLinkedList",
             "request": "launch",
             "mainClass": "SinglyLinkedList",
