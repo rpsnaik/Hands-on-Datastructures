@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SinglyLinkedList",
+            "request": "launch",
+            "mainClass": "SinglyLinkedList",
+            "projectName": "Hands-on-Datastructures_165060fe"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SinglyLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.SinglyLinkedList",
+            "projectName": "Hands-on-Datastructures_165060fe"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkedList",
+            "projectName": "Hands-on-Datastructures_165060fe"
+        }
+    ]
+}
