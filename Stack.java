@@ -1,3 +1,6 @@
+//We can create Stacks by using both LinkedList's and Arrays
+//In this example we created with the LinkedList logic of nodes...
+
 class Node{
     int data;
     Node next;
